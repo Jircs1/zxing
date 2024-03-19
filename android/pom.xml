@@ -25,7 +25,7 @@
     <dependency>
       <groupId>com.google.zxing</groupId>
       <artifactId>core</artifactId>
-      <version>3.3.3</version> <!-- fixed at the last compatible version -->
+      <version>3.5.3</version> <!-- fixed at the last compatible version -->
     </dependency>
     <dependency>
       <groupId>com.google.zxing</groupId>
