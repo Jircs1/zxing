@@ -37,7 +37,7 @@
   </parent>
 
   <properties>
-    <gwt.version>2.10.0</gwt.version>
+    <gwt.version>2.11.0</gwt.version>
   </properties>
 
   <build>
